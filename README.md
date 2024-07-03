@@ -1,2 +1,0 @@
-# Shayri
-*Java
